@@ -23,6 +23,13 @@ print('Python and ' + global_var)
 def myGFunc():
     global x
     x = "Beautiful"
-
 myGFunc()
 print("Python is " + x)
+
+l = 0
+
+print(type(l))
+
+# Variables
+# Basic Input Output
+# Data types
