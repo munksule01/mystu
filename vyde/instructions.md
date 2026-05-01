@@ -8,10 +8,14 @@ Start with numbers = [5, 12, 7, 3, 25, 18, 9]. Do the following without using bu
 · Find and print the largest number.
 · Print the sum of all numbers.
 
+// Done
+
 Exercise 2: Reverse without .reverse() or slicing
 
 items = [10, 20, 30, 40, 50]
 Create a new list that contains the same elements in reverse order (e.g., [50, 40, 30, 20, 10]) using a loop.
+
+// Done
 
 Exercise 3: Remove duplicates (general version)
 
