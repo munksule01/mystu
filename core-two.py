@@ -1,6 +1,7 @@
 # String Methods (.upper(), .lower(), .replace(), .strip())
 # F-strings
 # Operators
+from base64 import encode
 import random
 
 print(random.randrange(1, 10))
@@ -37,6 +38,15 @@ print(g.capitalize())
 print(g.upper())
 print(g.lower())
 print(g.split())
+
+price = 59
+txt = f"The price is {price:.2f} dollars"
+print(txt)
+print(txt.encode('utf-8'))
+
+print(10 > 9)
+print(10 == 9)
+print(10 < 9)
 
 # Finding the position of a character or letter
 # Searching for words in a sentence
