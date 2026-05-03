@@ -36,6 +36,8 @@ Exercise 5: Inner list – average of sublists
 matrix = [[10, 20, 30], [40, 50, 60], [70, 80, 90]]
 For each inner list, calculate its average and store those averages in a new list averages. Print averages.
 
+// Done
+
 Exercise 6: Palindrome checker in a list
 
 words = ["radar", "hello", "level", "world", "racecar"]
