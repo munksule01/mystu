@@ -1,0 +1,40 @@
+2026-05-01 23:01:55 - INFO - Starting file organization scan in: ..\vars
+2026-05-01 23:01:55 - INFO - Dry run mode: True
+2026-05-01 23:01:55 - INFO - Found 6 files to organize
+2026-05-01 23:01:55 - INFO -   code: 6 file(s)
+2026-05-01 23:01:59 - INFO - ==================================================
+2026-05-01 23:01:59 - INFO - Organization Summary:
+2026-05-01 23:01:59 - INFO -   Files moved: 0
+2026-05-01 23:01:59 - INFO -   Directories created: 0
+2026-05-01 23:01:59 - INFO - ==================================================
+2026-05-01 23:03:20 - INFO - Starting file organization scan in: ..\vars
+2026-05-01 23:03:20 - INFO - Dry run mode: True
+2026-05-01 23:03:20 - INFO - Found 6 files to organize
+2026-05-01 23:03:20 - INFO -   code: 6 file(s)
+2026-05-01 23:03:20 - INFO - [DRY RUN] Would move: costEstimator.py -> code/
+2026-05-01 23:03:20 - INFO - [DRY RUN] Would move: ecInstance.py -> code/
+2026-05-01 23:03:20 - INFO - [DRY RUN] Would move: groupRule.py -> code/
+2026-05-01 23:03:20 - INFO - [DRY RUN] Would move: resourceTags.py -> code/
+2026-05-01 23:03:20 - INFO - [DRY RUN] Would move: s3Bucket.py -> code/
+2026-05-01 23:03:20 - INFO - [DRY RUN] Would move: userInput.py -> code/
+2026-05-01 23:03:20 - INFO - ==================================================
+2026-05-01 23:03:20 - INFO - Organization Summary:
+2026-05-01 23:03:20 - INFO -   Files moved: 0
+2026-05-01 23:03:20 - INFO -   Directories created: 0
+2026-05-01 23:03:20 - INFO - ==================================================
+2026-05-01 23:03:44 - INFO - Starting file organization scan in: ..\vars
+2026-05-01 23:03:44 - INFO - Dry run mode: False
+2026-05-01 23:03:44 - INFO - Found 6 files to organize
+2026-05-01 23:03:44 - INFO -   code: 6 file(s)
+2026-05-01 23:03:44 - INFO - [CREATED] Directory: code
+2026-05-01 23:03:44 - INFO - [MOVED] costEstimator.py -> code/
+2026-05-01 23:03:44 - INFO - [MOVED] ecInstance.py -> code/
+2026-05-01 23:03:44 - INFO - [MOVED] groupRule.py -> code/
+2026-05-01 23:03:44 - INFO - [MOVED] resourceTags.py -> code/
+2026-05-01 23:03:44 - INFO - [MOVED] s3Bucket.py -> code/
+2026-05-01 23:03:44 - INFO - [MOVED] userInput.py -> code/
+2026-05-01 23:03:44 - INFO - ==================================================
+2026-05-01 23:03:45 - INFO - Organization Summary:
+2026-05-01 23:03:45 - INFO -   Files moved: 6
+2026-05-01 23:03:45 - INFO -   Directories created: 1
+2026-05-01 23:03:45 - INFO - ==================================================

@@ -22,10 +22,14 @@ Exercise 3: Remove duplicates (general version)
 data = [1, 2, 2, 3, 4, 4, 4, 5]
 Write code to create a new list with each number appearing only once, preserving the original order (first occurrence stays). Do not use set() (but later try with set to see the difference).
 
+// Done
+
 Exercise 4: Even and odd split
 
 values = [23, 44, 57, 68, 91, 12, 33, 78]
 Loop through and put even numbers into one list called evens and odd numbers into odds. Then print both lists.
+
+// Done
 
 Exercise 5: Inner list – average of sublists
 
