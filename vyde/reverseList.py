@@ -16,12 +16,23 @@ reverse_items = []
 while i >= 0:
     reverse_items.append(items[i])
     i -= 1
+    print(i)
 
 print(reverse_items)
 
-i = -1
 reverse_items = []
 for i in range(len(items)):
     reverse_items.append(items[len(items) - 1 - i])
+    print(i)
 
 print("This is with for loops ", reverse_items)
+
+
+for i in items:
+    i = items[::-1]
+print(i)
+
+for i in letters:
+    i = letters[-1::-1]
+
+print(i)

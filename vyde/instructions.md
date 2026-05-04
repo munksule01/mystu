@@ -43,6 +43,8 @@ Exercise 6: Palindrome checker in a list
 words = ["radar", "hello", "level", "world", "racecar"]
 Create a new list called palindromes containing only the words that read the same forwards and backwards. Hint: compare word to word[::-1].
 
+// Done
+
 Exercise 7: Shift elements
 
 letters = ['a', 'b', 'c', 'd', 'e']
