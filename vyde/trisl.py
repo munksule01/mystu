@@ -5,13 +5,20 @@ def user_api():
     for i in range(3):
         username = input("Please enter your username : ")
         password = input("Please enter your password : ")
+
+        if len(password) < 4:
+            print("Password must be at least 4 characters long.")
+            continue
+
         user = {
             "username": username,
             "password": password
         }
-        
+
         users.append(user)
 
-    print(users)
+    return users
 
-user_api()
+data = user_api()
+
+print(data)
